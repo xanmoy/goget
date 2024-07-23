@@ -22,7 +22,7 @@ To build and use GoPM, follow these steps:
 2. **Build the project:**
 
     ```sh
-    go build -o goget ./cmd/gopm
+    go build -o goget ./cmd/goget
     ```
 
 3. **Install the binary (optional):**
