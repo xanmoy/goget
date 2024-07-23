@@ -10,7 +10,7 @@ GoGet is a simple package manager for Go written in Go. It allows you to install
 
 ## Installation
 
-To build and use GoPM, follow these steps:
+To build and use GoGet, follow these steps:
 
 1. **Clone the repository:**
 
